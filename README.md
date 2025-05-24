@@ -31,6 +31,8 @@ pip install -r requirements.txt
 python main.py
 ```
 
+### 4. Upload an image and choose a category, and then you can see the similar images and their info displayed on the page!
+
 ### 4. Open your browser and navigate to
 ```
 http://localhost:5000
