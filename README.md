@@ -17,8 +17,8 @@ Follow these steps to run the clothing similarity search system on your local ma
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/clothing-similarity-siamese.git
-cd clothing-similarity-siamese
+git clone https://github.com/amromeshref/Computer-Vision-Project.git
+cd Computer-Vision-Project
 ```
 
 ### 2. Install required packages
