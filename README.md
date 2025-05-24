@@ -1,6 +1,6 @@
 # 🧠 Clothing Similarity Search using Siamese Neural Network
 
-A computer vision project that uses a **Siamese Neural Network** to retrieve visually similar clothing items — such as jackets, jeans, shirts, and shoes — from a custom image database. Built with TensorFlow and deployed via a Flask web app.
+A computer vision project that uses a **Siamese Neural Network** to retrieve visually similar clothing items, such as jackets, jeans, shirts, and shoes, from a custom image database. Built with TensorFlow and deployed via a Flask web app.
 
 ## 📌 Project Overview
 
@@ -24,4 +24,14 @@ cd clothing-similarity-siamese
 ### 2. Install required packages
 ```bash
 pip install -r requirements.txt
+```
+
+### 3. Start the Flask server
+```bash
+python main.py
+```
+
+### 4. Open your browser and navigate to
+```
+http://localhost:5000
 ```
